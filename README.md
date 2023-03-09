@@ -12,9 +12,9 @@
 ## ⚙️ GitHub Analytics  ![](https://visitor-badge.glitch.me/badge?page_id=simple-c1)
 
 <div align="center">
-  <a href="https://github.com/simple-c1">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=simple-c1&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=simple-c1&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/hbw3simple">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=hbw3simple&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbw3simple&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   
  
@@ -36,7 +36,7 @@
 
   <a href="https://www.instagram.com/theylovesimple/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:gustavocouto72224072202@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-couto-913686257/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href="[https://www.linkedin.com/in/gustavo-couto-913686257/](https://www.linkedin.com/in/gustavo-couto-b37182269/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  
 </div>
