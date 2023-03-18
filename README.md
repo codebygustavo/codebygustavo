@@ -12,9 +12,9 @@
 ## ⚙️ GitHub Analytics  ![](https://visitor-badge.glitch.me/badge?page_id=simple-c1)
 
 <div align="center">
-  <a href="https://github.com/hbw3simple">
-    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=hbw3simple&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hbw3simple&theme=dracula&hide_border=false&&layout=compact"/>
+  <a href="https://github.com/hqwy4">
+    <img height="130em" src="https://github-readme-stats.vercel.app/api?username=hqwy4&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="130em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqwy4&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
   
  
