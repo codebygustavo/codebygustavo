@@ -1,6 +1,6 @@
-<img width=100% src="https://user-images.githubusercontent.com/116754904/220238928-652969fe-4fbf-4b28-a8fe-7329c06dc132.svg"/>
+<img width=100% src="https://user-images.githubusercontent.com/116754904/229590406-40b8edf6-4c36-4641-bd93-311cabd1ed03.png"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=eb3455&size=18&center=true&vCenter=true&width=1000&lines=Olá+👋,+Meu+Nome+é+Gustavo+Couto+;+Bem+vindo+Ao+Meu+Perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=5012&pause=1000&color=1A526E&width=435&lines=Ol%C3%A1+%F0%9F%91%8B+Sou+o+Gustavo;Bem+Vindo+Ao+meu+perfil)](https://git.io/typing-svg)
 
 <div>
  
@@ -41,4 +41,4 @@
  
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=eb3455&height=120&section=footer"/>
+<img width=100% src="https://user-images.githubusercontent.com/116754904/229590319-b979ff35-e66f-4547-9e94-8be339e5dfb4.png"/>
