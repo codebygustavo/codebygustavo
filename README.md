@@ -12,11 +12,9 @@
 ## ⚙️ GitHub Analytics  ![](https://visitor-badge.glitch.me/badge?page_id=simple-c1)
 
 <div align="center">
-
- <a href"https://github.com/astr0ns">   
+   
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hqwy4&show_icons=true&theme=radical"></img>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqwy4&layout=compact&theme=radical"></div>
- </a>
 
 </div >
 
