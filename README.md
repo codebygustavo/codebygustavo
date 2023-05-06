@@ -9,12 +9,12 @@
 </div>
 
 
-## ⚙️ GitHub Analytics  ![](https://visitor-badge.glitch.me/badge?page_id=simple-c1)
+## ⚙️ GitHub Analytics  ![](https://visitor-badge.glitch.me/badge?page_id=codebygustavo)
 
 <div align="center">
    
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hqwy4&show_icons=true&theme=tokyonight"></img>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hqwy4&layout=compact&theme=tokyonight"></div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=codebygustavo&show_icons=true&theme=tokyonight"></img>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebygustavo&layout=compact&theme=tokyonight"></div>
 
 </div >
 
