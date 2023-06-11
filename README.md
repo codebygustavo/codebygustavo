@@ -28,6 +28,11 @@
   <img align="center" alt="simple-CSS" height="38" width="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
 </div>
 
+### Ferramentas
+<div align="left" valign="top"><br>
+  <img align="center" alt="Simple-Js" height="60" width="60" src="https://github.com/codebygustavo/codebygustavo/assets/116754904/9bd56301-d2ba-4496-bd25-d27f977b6a37">
+</div>
+
 ## 📱 Redes Sociais
 
 <div align="center"> 
