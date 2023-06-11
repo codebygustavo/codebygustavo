@@ -6,6 +6,7 @@
  
 - 👨‍🎓​Estudante de INI(Informática para Internet) no ITB.<br>
 - 📓Estudando para ser um Desenvolvedor Web.
+- 😀 16 Anos
 </div>
 
 
