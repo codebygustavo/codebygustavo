@@ -1,12 +1,14 @@
 <img width=100% src="https://user-images.githubusercontent.com/116754904/229590406-40b8edf6-4c36-4641-bd93-311cabd1ed03.png"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=5012&pause=1000&color=1A526E&width=435&lines=Ol%C3%A1+%F0%9F%91%8B+Sou+o+Gustavo;Bem+Vindo+Ao+meu+perfil)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&duration=5012&pause=1000&color=1A526E&width=435&lines="Knock+Knock";Hey+There!+I'm+Gustavo)](https://git.io/typing-svg)
 
 <div>
  
-- 👨‍🎓 Estudante de INI (Informática para Internet) no ITB.
-- 📓 Estudando para ser um Desenvolvedor Web.
-- 😀 16 anos
+- 👨‍🎓 I'm studying web development in high school, in the FIEB
+- 📓 I'm practicing for learn Inglish.
+- 😀 Full-Stack Developer.
+- 🥳 17 years old lived
+
 </div>
 
 ## ⚙️ GitHub Analytics
@@ -18,9 +20,9 @@
   
 </div>
 
-## 🛠️ Conhecimento
+## 🛠️ know-how
 
-### Linguagens
+### Program languages
 
 <div align="left" valign="top"><br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="38" width="38">
@@ -36,13 +38,13 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" height="38" width="38">
 </div>
 
-### Ferramentas
+### Tools
 
 <div align="left" valign="top"><br>
   <img src="https://github.com/codebygustavo/codebygustavo/assets/116754904/9bd56301-d2ba-4496-bd25-d27f977b6a37" alt="Visual Studio Code" height="60" width="60">
 </div>
 
-## 📱 Redes Sociais
+## 📱 Social medias and contact
 
 <div align="center"> 
   <a href="https://www.instagram.com/s.hikage/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
