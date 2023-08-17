@@ -42,6 +42,7 @@
 
 <div align="left" valign="top"><br>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" height="38" width="38">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="38" width="38"/>
 </div>
 
 ### Tools
