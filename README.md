@@ -51,6 +51,12 @@
   <img src="https://github.com/codebygustavo/codebygustavo/assets/116754904/9bd56301-d2ba-4496-bd25-d27f977b6a37" alt="Visual Studio Code" height="60" width="60">
 </div>
 
+### System
+
+<div align="left" valign="top"><br>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="60" width="60"/>     
+</div>
+
 ## 📱 Social medias and contact
 
 <div align="center"> 
