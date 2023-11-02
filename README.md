@@ -6,15 +6,6 @@
   
 </div>
 
-### GitHub Analytics
-
-<div align="center">
- 
-  <img src="https://github-readme-stats.vercel.app/api?username=codebygustavo&show_icons=true&theme=dark" height="180em"></img>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codebygustavo&layout=compact&theme=dark" height="180em"></img>
-  
-</div>
-
 ### know-how
 
 #### Program languages
