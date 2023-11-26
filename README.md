@@ -29,7 +29,7 @@
  
  <br>
  
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="38" width="38">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="38" width="38" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="38" width="38" />
   
 </div>
@@ -37,12 +37,17 @@
 #### Frameworks
 
 <div align="left" valign="top">
- 
- <br>
+
+ ##### Front-End
  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" height="38" width="38">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="38" width="38"/>
-  
+
+ ##### Back-End
+
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="38" width="38" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="Handlebars" height="38" width="38" />
+            
 </div>
 
 ### Tools
