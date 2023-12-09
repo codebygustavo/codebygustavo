@@ -2,7 +2,7 @@
 
 <div align="center">
 
- ![Hello (3)](https://github.com/codebygustavo/codebygustavo/assets/116754904/903754d7-076e-446f-a237-54a7e5111fdb)
+![Hello](https://github.com/codebygustavo/codebygustavo/assets/116754904/0661045e-54a4-4a7a-804d-36a2bd6a2642)
   
 </div>
 
