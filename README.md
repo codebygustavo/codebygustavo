@@ -2,8 +2,8 @@
 
 <div align="center">
 
-![Hello](https://github.com/codebygustavo/codebygustavo/assets/116754904/0661045e-54a4-4a7a-804d-36a2bd6a2642)
-  
+![Hello](https://github.com/codebygustavo/codebygustavo/assets/116754904/e996c5c7-a649-4779-b07f-5eae03e511b9)
+
 </div>
 
 ### know-how
