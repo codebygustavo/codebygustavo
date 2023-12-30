@@ -20,10 +20,14 @@
 [![HTML](https://img.shields.io/badge/-HTML-4C6763?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-4C6763?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![SCSS](https://img.shields.io/badge/-SCSS-4C6763?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
-[![Handlebars](https://img.shields.io/badge/-Handlebars-4C6763?style=for-the-badge&logo=handlebars&logoColor=white)](https://handlebarsjs.com/)
+[![Handlebars](https://img.shields.io/badge/-Handlebars-4C6763?style=for-the-badge&logo=node.js&logoColor=white)](https://handlebarsjs.com/)
 
 [![VSCode](https://img.shields.io/badge/-VSCode-4C6763?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Postman](https://img.shields.io/badge/-Postman-4C6763?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
+
+#### Destaques: Vale a Pena Explorar
+
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4C6763?style=for-the-badge)]([https://handlebarsjs.com/](https://codebygustavo.github.io/portfolio/))
 
 ##
 
