@@ -1,72 +1,31 @@
 ##
-
 <div align="center">
-
-![Hello](https://github.com/codebygustavo/codebygustavo/assets/116754904/7cc6e043-d387-4faa-8a01-4b3ddce42148)
-
+![Hello](https://github.com/codebygustavo/codebygustavo/assets/116754904/4b4503be-0eb7-4eaa-ab21-a3f8c6851bac)
 </div>
 
-### know-how
+#### introdução
+### Junior: Desenvolvedor Full-Stack
+**Gustavo** é um desenvolvedor Full-stack Júnior, com 2 anos de experiência, possuindo conhecimentos sólidos em diversas tecnologias voltadas para o desenvolvimento web. Atualmente, está cursando o terceiro ano do ensino médio técnico integrado em Informática para Internet.
 
-#### Program languages
+#### tecnologias
+[![Node.js](https://img.shields.io/badge/-Node.js-4C6763?style=for-the-badge&logo=node.js&logoColor=white)](https://nodejs.org/)
+[![Express](https://img.shields.io/badge/-Express-4C6763?style=for-the-badge&logo=express&logoColor=white)](https://expressjs.com/)
+[![Sequelize](https://img.shields.io/badge/-Sequelize-4C6763?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
+[![Mongoose](https://img.shields.io/badge/-Mongoose-4C6763?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
+[![MySQL](https://img.shields.io/badge/-MySQL-4C6763?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
 
-##### Front-End
+[![React.js](https://img.shields.io/badge/-React.js-4C6763?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
+[![HTML](https://img.shields.io/badge/-HTML-4C6763?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://img.shields.io/badge/-CSS-4C6763?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![SCSS](https://img.shields.io/badge/-SCSS-4C6763?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
+[![Handlebars](https://img.shields.io/badge/-Handlebars-4C6763?style=for-the-badge&logo=handlebars&logoColor=white)](https://handlebarsjs.com/)
 
-<div align="left" valign="top">
- 
- <br>
- 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" alt="JavaScript" height="38" width="38">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" height="38" width="38">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" height="38" width="38">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" height="38" width="38">
-  
-</div>
-
-##### Back-End
-
-<div align="left" valign="top">
- 
- <br>
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" height="38" width="38" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="NodeJs" height="38" width="38" />
-  
-</div>
-
-#### Frameworks
-
-<div align="left" valign="top">
-
- ##### Front-End
- 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bulma/bulma-plain.svg" alt="Bulma" height="38" width="38">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" height="38" width="38"/>
-
- ##### Back-End
-
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express" height="38" width="38" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/handlebars/handlebars-original.svg" alt="Handlebars" height="38" width="38" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" height="38" width="38"/>
-            
-</div>
-
-### Tools
-
-<div align="left" valign="top">
- 
- <br>
- 
-  <img src="https://github.com/codebygustavo/codebygustavo/assets/116754904/9bd56301-d2ba-4496-bd25-d27f977b6a37" alt="Visual Studio Code" height="60" width="60">
-  
-</div>
+[![VSCode](https://img.shields.io/badge/-VSCode-4C6763?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+[![Postman](https://img.shields.io/badge/-Postman-4C6763?style=for-the-badge&logo=postman&logoColor=white)](https://www.postman.com/)
 
 ##
 
-<div align="left">
- 
-  <a href="https://www.instagram.com/s.hikage/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" target="_blank"></a>
-  <a href="mailto:hbw3.gustavo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/gustavo-couto-b37182269/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" target="_blank"></a> 
-  
-</div>
+#### Social
+[![Instagram](https://img.shields.io/badge/-Instagram-4C6763?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/whfgxk/)
+[![Gmail](https://img.shields.io/badge/-Gmail-4C6763?style=for-the-badge&logo=gmail&logoColor=white)](mailto:submit.gustavo@yahoo.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-4C6763?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gustavo-couto-b37182269/)
