@@ -19,6 +19,8 @@
 [![React.js](https://img.shields.io/badge/-React.js-4C6763?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![HTML](https://img.shields.io/badge/-HTML-4C6763?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
 [![CSS](https://img.shields.io/badge/-CSS-4C6763?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://img.shields.io/badge/-JavaScript-4C6763?style=for-the-badge&logo=JavaScript&logoColor=white)](https://sass-lang.com/)
+[![TypeScript](https://img.shields.io/badge/-TypeScript-4C6763?style=for-the-badge&logo=TypeScript&logoColor=white)](https://sass-lang.com/)
 [![SCSS](https://img.shields.io/badge/-SCSS-4C6763?style=for-the-badge&logo=sass&logoColor=white)](https://sass-lang.com/)
 [![Handlebars](https://img.shields.io/badge/-Handlebars-4C6763?style=for-the-badge&logo=node.js&logoColor=white)](https://handlebarsjs.com/)
 
