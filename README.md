@@ -27,7 +27,7 @@
 
 #### Destaques: Vale a Pena Explorar
 
-[![Portfolio](https://img.shields.io/badge/-Portfolio-4C6763?style=for-the-badge)]([https://handlebarsjs.com/](https://codebygustavo.github.io/portfolio/))
+[![Portfolio](https://img.shields.io/badge/-Portfolio-4C6763?style=for-the-badge)](https://codebygustavo.github.io/portfolio/)
 
 ##
 
