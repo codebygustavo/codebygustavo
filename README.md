@@ -15,6 +15,7 @@
 [![Sequelize](https://img.shields.io/badge/-Sequelize-4C6763?style=for-the-badge&logo=sequelize&logoColor=white)](https://sequelize.org/)
 [![Mongoose](https://img.shields.io/badge/-Mongoose-4C6763?style=for-the-badge&logo=mongoose&logoColor=white)](https://mongoosejs.com/)
 [![MySQL](https://img.shields.io/badge/-MySQL-4C6763?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/)
+[![MongoDB](https://img.shields.io/badge/-MongoDB-4C6763?style=for-the-badge&logo=MongoDB&logoColor=white)](https://www.mysql.com/)
 
 [![React.js](https://img.shields.io/badge/-React.js-4C6763?style=for-the-badge&logo=react&logoColor=white)](https://reactjs.org/)
 [![HTML](https://img.shields.io/badge/-HTML-4C6763?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
