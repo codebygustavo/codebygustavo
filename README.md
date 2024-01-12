@@ -1,7 +1,7 @@
 ##
 <div align="center">
   
-![Hello](https://github.com/codebygustavo/codebygustavo/assets/116754904/4b4503be-0eb7-4eaa-ab21-a3f8c6851bac)
+![Hello](https://github.com/codebygustavo/codebygustavo/assets/116754904/c9fc6a4e-8c10-42ac-8061-aaa648aac48f)
 
 </div>
 
